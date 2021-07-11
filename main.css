@@ -1,0 +1,37 @@
+body{
+    background-color: slategrey;
+    font-family: Helvetica;
+    text-align: center;
+}
+h1{
+    font-size: absolute-size;
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: floralwhite;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+h2{
+    font-size: medium;
+    text-align: center;
+}
+
+img{
+    align-items: center;
+}
+
+button{
+    color: lightgrey;
+}
+
+header{
+    background-image: img src="images/DSC_8265 Kopie.jpg" height="700px" width="1000";
+}
+
+
+
+
